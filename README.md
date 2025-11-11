@@ -7,7 +7,7 @@ Based on [this article](https://medium.com/@bastiaanrudolf/a-rudimental-approach
 ## Installation
 
 ```bash
-composer require voidgraphics/laravel-pageview-counter
+composer require twohue/laravel-pageview-counter
 ```
 
 You need to publish the migration that will add the pageviews table: 
